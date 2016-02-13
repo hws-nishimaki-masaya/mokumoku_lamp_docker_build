@@ -1,0 +1,2 @@
+# mokumoku_lamp_docker_build
+Mokumoku会のワークショップ用のDockerfile
